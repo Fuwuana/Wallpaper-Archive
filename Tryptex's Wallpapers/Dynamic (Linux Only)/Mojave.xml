@@ -1,0 +1,179 @@
+<!-- Instructions:
+- Download and unzip Mojave dynamic background here: https://files.rb.gd/mojave_dynamic.zip 
+- Rename the extracted folder as "mojave-background" (Excuse the trouble but I renamed it on my machine and already use that path in the XML file)
+- Save this xml file next to the Mojave background files
+- Fix the path to the background images below (better using absolute path)
+- Lastly, either: 
+  + GNOME: Use gnome-tweaks tool to select this XML as wallpaper (as default wallpaper settings won't let you choose wallpaper from custom path)
+  + MATE: Go to background setting (in Appearance) > Choose +Add... > make sure **All files** filter is selected at the bottom right > Then choose mojave.xml
+-->
+<background>
+  <starttime>
+    <year>2014</year>
+    <month>01</month>
+    <day>11</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/015.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/015.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/016.jpeg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/016.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/016.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/001.jpeg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/001.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/001.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/002.jpeg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/002.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/002.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/003.jpeg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/003.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/003.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/004.jpeg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/004.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/004.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/005.jpeg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/005.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/005.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/006.jpeg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/006.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/006.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/007.jpeg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/007.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/007.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/008.jpeg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/008.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/008.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/009.jpeg</to>
+  </transition>
+  <!-- 14:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/009.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/009.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/010.jpeg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/010.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/010.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/011.jpeg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/011.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/011.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/012.jpeg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/012.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/012.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/013.jpeg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/013.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/013.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/014.jpeg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/014.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/014.jpeg</from>
+    <to>/home/pierce/Pictures/tryptex-wallpaper-archive/Tryptex's Wallpapers/Dynamic/Mojave/015.jpeg</to>
+  </transition>
+</background>
